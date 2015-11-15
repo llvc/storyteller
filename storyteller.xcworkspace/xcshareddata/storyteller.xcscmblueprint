@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8016AF7C3D00B9067918F691FB68E65C4F880926",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9831552573E094490BE294D2022C9A658091BB4B" : 0,
+    "8016AF7C3D00B9067918F691FB68E65C4F880926" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7744AC27-B592-4203-A2A6-8901C5A36D6F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9831552573E094490BE294D2022C9A658091BB4B" : "iOS",
+    "8016AF7C3D00B9067918F691FB68E65C4F880926" : "storyteller"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "storyteller",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "storyteller\/storyteller.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/llvc\/storyteller.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8016AF7C3D00B9067918F691FB68E65C4F880926"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/llvc\/iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9831552573E094490BE294D2022C9A658091BB4B"
+    }
+  ]
+}

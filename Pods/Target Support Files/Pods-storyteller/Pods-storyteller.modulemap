@@ -1,0 +1,6 @@
+framework module Pods_storyteller {
+  umbrella header "Pods-storyteller-umbrella.h"
+
+  export *
+  module * { export * }
+}
